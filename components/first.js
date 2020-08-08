@@ -119,7 +119,7 @@ const Content = styled.div`
               onChange={e => setPassword(e.target.value)}
               value={password}
               type="password"
-              placeholder="Password1"
+              placeholder="Password"
             />
           )}
         </FormItem>
